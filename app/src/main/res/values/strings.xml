@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">1. FSV Mainz 05</string>
+    <string name="teamhistory">Team History</string>
+    <string name="headcoach">Head Coach</string>
+    <string name="teamsquad">Team Squad</string>
+    <string name="ig">Instagram</string>
+    <string name="x">Instagram</string>
+    <string name="stadium">Instagram</string>
+
+    <string name="mainz_description"><b>1. FSV Mainz 05</b> adalah klub sepak bola profesional Jerman yang berbasis di kota Mainz, Rhineland-Palatinate, dengan sejarah panjang yang penuh tradisi sejak didirikan pada 16 Maret 1905. Klub ini dijuluki \"Die Nullfünfer\" (The Zero-Fivers) dan telah membangun identitas yang kuat sebagai klub yang konsisten dalam filosofi pengembangan pemain muda serta menerapkan sepak bola ofensif yang menarik bagi penonton. Sebagai salah satu anggota pendiri Bundesliga pada tahun 1963, Mainz 05 memiliki akar sejarah yang dalam dalam sepak bola Jerman modern, meskipun perjalanan mereka menuju papan atas tidak selalu mulus. Era keemasan klub ini dimulai pada periode modern di bawah kepemimpinan pelatih-legendaris seperti Jürgen Klopp yang berhasil membawa Mainz 05 promosi ke Bundesliga untuk pertama kalinya pada tahun 2004, kemudian dilanjutkan oleh Thomas Tuchel yang memperkuat fondasi klub, dan kini diteruskan oleh Bo Henriksen yang membawa semangat baru. Stadion kandang mereka, MEWA ARENA, dengan kapasitas 34.000 penonton, telah menjadi benteng yang sulit ditembau bagi tim tamu dan menciptakan atmosfer yang luar biasa bagi para pendukung setia. Klub ini dikenal dengan sistem scouting yang brilian dan kemampuan mencetak talenta-talenta muda yang kemudian berkembang menjadi bintang-bintang internasional, menjadikan Mainz 05 sebagai salah satu klub yang paling dihormati dalam hal pengembangan pemain di Jerman.</string>    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

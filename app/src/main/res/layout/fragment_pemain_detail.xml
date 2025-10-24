@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/bg_rounded">
+
+    <ImageView
+        android:id="@+id/imageViewPemain"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_person_placeholder" />
+
+    <TextView
+        android:id="@+id/textViewPemainName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="Player Name"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/textViewPemainPosition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        tools:text="Position"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textViewPemainNationality"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        tools:text="Nationality"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/textViewPemainShirtNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        tools:text="Shirt Number"
+        android:textSize="14sp" />
+</LinearLayout>

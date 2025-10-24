@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#FF666666</color>
+
+    <!-- Manchester City Colors -->
+    <color name="man_city_blue">#6CABDD</color>
+    <color name="man_city_light_blue">#E8F4FD</color>
+
+    <!-- Player Position Colors -->
+    <color name="goalkeeper_color">#FFFFEB3B</color>
+    <color name="defender_color">#FF2196F3</color>
+    <color name="midfielder_color">#FF4CAF50</color>
+    <color name="forward_color">#FFF44336</color>
+    <color name="default_player_color">#FF9E9E9E</color>
+    <color name="mainz_color">#FF0000</color> <!-- Warna utama Mainz (Merah) -->
+    <color name="mainz_red">#D6001C</color>   <!-- Warna merah khas Mainz 05 -->
+</resources>
